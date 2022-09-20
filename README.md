@@ -21,3 +21,4 @@ Mi nombre es *__Juan__* y estoy en la 301
   </head>
 </html>
 ```
+[Enlace a wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "Texto alternativo")
