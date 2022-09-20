@@ -23,3 +23,4 @@ Mi nombre es *__Juan__* y estoy en la 301
 ```
 [Enlace a wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "Texto alternativo")
 
+![Foto Duki](https://github.com/JuanCarlospg/repasoGithub/blob/main/Duki.jpg "Duko")
