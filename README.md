@@ -14,3 +14,10 @@ Mi nombre es *__Juan__* y estoy en la 301
 
 - Titulo 1 Lista desordenada
 - Titulo 2 Lista desordenada
+
+```html
+<html>
+  <head>
+  </head>
+</html>
+```
