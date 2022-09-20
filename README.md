@@ -12,5 +12,5 @@ Mi nombre es *__Juan__* y estoy en la 301
 1. Titulo 1
 2. Titulo 2
 
-· Titulo 1
-· Titulo 2
+- Titulo 1
+- Titulo 2
