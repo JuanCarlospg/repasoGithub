@@ -9,5 +9,8 @@ __Este texto aparece en negrita__
 
 Mi nombre es *__Juan__* y estoy en la 301
 
-1. Asix
-..1 hola
+1. Titulo 1
+2. Titulo 2
+
+· Titulo 1
+· Titulo 2
